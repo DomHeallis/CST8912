@@ -38,6 +38,14 @@ Restart
 ![alt text](image-13.png)
 
 # Task 8
+ssh
+![alt text](image-16.png)
 
-![alt text](image-14.png)
-![alt text](image-15.png)
+uname -a  / top
+![alt text](image-17.png)
+
+df -h
+![alt text](image-18.png)
+
+mkdir / ls -l
+![alt text](image-19.png)
