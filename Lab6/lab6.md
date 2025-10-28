@@ -65,7 +65,7 @@
 
 ![alt text](image-19.png)
 
-DefaultEndpointsProtocol=https;AccountName=domstorage8912;AccountKey=AOOXzzEtVEcfhJ7q8isWCkQws0Hyl2PfRdAPCL6nZbl9VhM12lUw9u3ga8+bIIczFBKXPyF3yQOa+AStXKRXEQ==;EndpointSuffix=core.windows.net
+
 
 # Add a blob container
 ![alt text](image-20.png)
